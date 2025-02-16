@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akibul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh with 1.5 years professional experience.</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh with 3.8 years professional experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akibulshohag&label=Profile%20views&color=0e75b6&style=flat" alt="akibulshohag" /> </p>
 
-- 🔭 I’m currently working on [Car Booking](https://alvi-car.b2gsoft.xyz/)
+- 🔭 I’m currently working on [Arogga Health Care](https://www.arogga.com/)
 
 - 🌱 I’m currently learning **Node Js.**
 
-- 👯 I’m looking to collaborate on [Visa management](https://saimon.b2gsoft.xyz/)
+- 👯 I’m looking to collaborate on [Visa management](https://visasaimon.com/)
 
 - 👨‍💻 All of my projects are available at [https://akib-7b3f8.web.app/](https://akib-7b3f8.web.app/)
 
